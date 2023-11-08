@@ -1,0 +1,262 @@
+[
+  {
+    "name": "General",
+    "infoName": "General",
+    "description": "There are some common items and materials that are typically considered general waste in Switzerland like household trash. Everyday household waste, including items such as food scraps, used tissues, diapers, and other non-recyclable or non-compostable materials. \n\nMoreover, non-recyclable plastics goes in the general trash. Plastics that cannot be recycled, such as certain packaging materials, plastic bags, and disposable plastic items like cutlery or straws.",
+    "imageURL": "general_bin.webp",
+    "examples": [
+      {
+        "name": "Belt",
+        "imageURL": "belt.webp"
+      },
+      {
+        "name": "Book Cover / Back",
+        "imageURL": "book_cover.webp"
+      },
+      {
+        "name": "Inflatable Mattress",
+        "imageURL": "floatie.webp"
+      },
+      {
+        "name": "Mussels",
+        "imageURL": "mussels.webp"
+      },
+      {
+        "name": "Rubber Bands",
+        "imageURL": "rubber_bands.webp"
+      },
+      {
+        "name": "Rubber Gloves",
+        "imageURL": "rubber_gloves.webp"
+      },
+      {
+        "name": "Scotch Tape",
+        "imageURL": "scotch_tape.webp"
+      },
+      {
+        "name": "Tampons",
+        "imageURL": "tampons.webp"
+      },
+      {
+        "name": "Mirror",
+        "imageURL": "mirror.webp"
+      },
+      {
+        "name": "Used Tissue Paper",
+        "imageURL": "used_tissue_paper.webp"
+      }
+    ]
+  },
+  {
+    "name": "PET",
+    "infoName": "PET",
+    "description": "Plastic bottles can be returned to nearby supermarkets like Migros, where they offer PET bottle disposal services. Alternatively, you can look for PET collection bins located outside or in the vicinity of supermarkets. For best practices, it's recommended to compact and flatten the bottles to reduce their size. You can recycle most hard plastic bottles, such as cleaning products, milk, shower gels, and plastic deodorants.\n\nThe PET pellets, that are made from the collected PET, are provided to manufacturing facilities, where they can be used to produce a wide range of PET-based products, including new PET bottles, polyester fiber for textiles, and various plastic containers. PET bottles, in particular, can be made from recycled PET material, contributing to a circular economy and reducing the demand for virgin plastic.",
+    "imageURL": "pet_bin.webp",
+    "examples": [
+      {
+        "name": "PET Bottle Soda",
+        "imageURL": "pet_bottles.webp"
+      },
+      {
+        "name": "Milk Bottle",
+        "imageURL": "milk_box.webp"
+      }
+    ]
+  },
+  {
+    "name": "Paper",
+    "infoName": "Paper",
+    "description": "Paper and cardboard should be separated and placed in their designated waste bins. Ensure that they are neatly bundled and securely tied with recycling twine. You can dispose of paper and cardboard waste in their respective containers or return them to stores that sell electronics or furniture as an alternative option. \n\nWhy do we separate paper and cardboard? Carton and paper are made from different raw materials and manufacturing processes. Paper is made solely from wood fibers. Recycling them separately allows for more efficient processing and prevents contamination of one material with the properties of the other. paper recycling requires pulping to break down the paper fibers and remove contaminants. Recycled paper is often used to create new paper products, such as newspapers, cardboard, and tissue paper.",
+    "imageURL": "paper_bin.webp",
+    "examples": [
+      {
+        "name": "Brochure",
+        "imageURL": "brochure.webp"
+      },
+      {
+        "name": "Envelope",
+        "imageURL": "envelope.webp"
+      },
+      {
+        "name": "Newspaper",
+        "imageURL": "newspaper.webp"
+      }
+    ]
+  },
+  {
+    "name": "Carton",
+    "infoName": "Carton",
+    "description": "In contrast to paper, Carton, often used for packaging beverages and certain food products, is typically composed of a combination of paperboard and a thin layer of plastic or aluminum for added protection. Carton recycling typically involves a process that separates the paper fibers from the plastic or aluminum layers through a series of mechanical and chemical steps. In contrast, paper recycling requires pulping to break down the paper fibers and remove contaminants. Carton, with its unique composition, is frequently recycled into products like paperboard for packaging and molded pulp products.",
+    "imageURL": "carton_bin.webp",
+    "examples": [
+      {
+        "name": "Carton Box",
+        "imageURL": "cardboard_boxes.webp"
+      },
+      {
+        "name": "Fruit Cardboard",
+        "imageURL": "fruit_box.webp"
+      }
+    ]
+  },
+  {
+    "name": "Metal",
+    "infoName": "Metal",
+    "description": "Metal is also recycled in Switzerland and you can drop off your metal waste at the designated trash containers. Metal that can be recycled includes tin cans, lids of various jars and bottles, drink cans, containers of pet food, foil lids, and different aluminum tubs.\n\nMetal waste that shouldn’t be mixed with recyclable metal waste includes metal construction scraps, coffee capsules (even if they’re aluminum), and composite materials such as a butter wrapper.\n\nWhen disposing of metal cans, lids, and pet food containers, it’s recommended to rinse them to get rid of any food residue that might be present. You should also remove any labels, especially plastic or paper.",
+    "imageURL": "metal_bin.webp",
+    "examples": [
+      {
+        "name": "Tin Can",
+        "imageURL": "tin_can.webp"
+      },
+      {
+        "name": "Aluminium Foil",
+        "imageURL": "alu_foil.webp"
+      }
+    ]
+  },
+  {
+    "name": "Plastic",
+    "infoName": "Plastic",
+    "description": "Plastic bags, bottle caps, window frames, and various other plastic products. It's essential to separate these items from PET bottles during disposal. Switzerland has a well-structured plastic recycling process. Once plastic items are collected, they are typically sorted at recycling facilities to separate different types of plastics based on their resin codes. These sorted plastics are then cleaned and processed to remove any contaminants. The plastic materials are melted and reformed into new products, reducing the need for new plastic production and helping to minimize environmental impacts. Proper separation of plastic items is crucial to ensure  the efficiency and success of this recycling process.",
+    "imageURL": "plastic_bin.webp",
+    "examples": [
+      {
+        "name": "Bottle Caps",
+        "imageURL": "bottle_caps.webp"
+      },
+      {
+        "name": "Lotion Bottle",
+        "imageURL": "body_lotion_bottle.webp"
+      },
+      {
+        "name": "Plastic Bags",
+        "imageURL": "plastic_bag.webp"
+      },
+      {
+        "name": "Plastic Cup",
+        "imageURL": "plastic_cup.webp"
+      },
+      {
+        "name": "Plastic Food Packaging",
+        "imageURL": "plastic_packaging.webp"
+      },
+      {
+        "name": "Yoghurt Bottle",
+        "imageURL": "yoghurt_bottle.webp"
+      }
+    ]
+  },
+  {
+    "name": "Organic",
+    "infoName": "Organic",
+    "description": "Organic materials are a component of recyclable waste and should be separated from regular household waste and other recyclables. You can opt to either compost these materials or place them in a designated organic waste container. In many communities, there is a dedicated service that collects organic waste separately once a week using large green bins. Therefore, before you commence your collection, ensure you have one of these green bins located outside your apartment or house. \n\nMany individuals choose to accumulate their green waste in a smaller green bin inside their homes. They often leave this bin on their kitchen windowsill to prevent any unpleasant odors. It's possible to line this smaller green bin with a compostable organic plastic bag. If you use regular plastic bags, make sure to dispose of them in the regular trash. Food and garden waste includes: leftovers, fruit & veggies, coffee grounds & tea leaves, peelings & eggshells, wilted flowers, grass cuttings, and small branches.",
+    "imageURL": "organic_bin.webp",
+    "examples": [
+      {
+        "name": "Banana Peel",
+        "imageURL": "banana_peel.webp"
+      },
+      {
+        "name": "Carrots",
+        "imageURL": "carrots.webp"
+      },
+      {
+        "name": "Coffee Grounds",
+        "imageURL": "coffee_grounds.webp"
+      },
+      {
+        "name": "Egg Carton Box",
+        "imageURL": "egg_carton_box.webp"
+      },
+      {
+        "name": "Egg Shells",
+        "imageURL": "egg_shells.webp"
+      },
+      {
+        "name": "Fishbone",
+        "imageURL": "fishbone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Green Glass",
+    "infoName": "Green Glass",
+    "description": "Glass, broken or whole, is recycled according to its color; there are containers for green, brown, and clear glasses. However, it would help if you were careful not to throw mirrors and ceramics in the same container as regular glasses as the melting temperatures are not the same. Blue, purple, and other colored glasses go together with the green ones. \n\nDifferent glass colors are often made with different additives and pigments, which can affect their melting points and chemical compositions. Separating glass by color allows recycling facilities to control the furnace temperature and the recycling process more effectively, ensuring that each type of glass is processed correctly.",
+    "imageURL": "green_glass_bin.webp",
+    "examples": [
+      {
+        "name": "Beer Bottle",
+        "imageURL": "beer_bottles.webp"
+      }
+    ]
+  },
+  {
+    "name": "Brown Glass",
+    "infoName": "Brown Glass",
+    "description": "Glass, broken or whole, is recycled according to its color; there are containers for green, brown, and clear glasses. However, it would help if you were careful not to throw mirrors and ceramics in the same container as regular glasses as the melting temperatures are not the same. Blue, purple, and other colored glasses go together with the green ones. \n\nDifferent glass colors are often made with different additives and pigments, which can affect their melting points and chemical compositions. Separating glass by color allows recycling facilities to control the furnace temperature and the recycling process more effectively, ensuring that each type of glass is processed correctly.",
+    "imageURL": "brown_glass_bin.webp",
+    "examples": [
+      {
+        "name": "Wine Bottle",
+        "imageURL": "wine_bottle.webp"
+      }
+    ]
+  },
+  {
+    "name": "Clear Glass",
+    "infoName": "Clear Glass",
+    "description": "Glass, broken or whole, is recycled according to its color; there are containers for green, brown, and clear glasses. However, it would help if you were careful not to throw mirrors and ceramics in the same container as regular glasses as the melting temperatures are not the same. Blue, purple, and other colored glasses go together with the green ones. \n\nDifferent glass colors are often made with different additives and pigments, which can affect their melting points and chemical compositions. Separating glass by color allows recycling facilities to control the furnace temperature and the recycling process more effectively, ensuring that each type of glass is processed correctly.",
+    "imageURL": "clear_glass_bin.webp",
+    "examples": [
+      {
+        "name": "Perfume Bottle",
+        "imageURL": "perfume_bottle.webp"
+      }
+    ]
+  },
+  {
+    "name": "Special Waste",
+    "infoName": "Special",
+    "description": "Lithium-ion batteries are known to have adverse environmental impacts and should not be disposed of in standard containers. They require specialized recycling channels. You can return them at retail stores or select supermarkets that provide dedicated, free-of-charge receptacles for used batteries.",
+    "imageURL": "special_waste_bin.webp",
+    "examples": [
+      {
+        "name": "Batteries",
+        "imageURL": "batteries.webp"
+      },
+      {
+        "name": "Phone Battery",
+        "imageURL": "lithium_battery.webp"
+      }
+    ]
+  },
+  {
+    "name": "Textile",
+    "infoName": "Textile",
+    "description": "You can deposit your old clothing and footwear into donation bins placed at recycling centers. Organizations like TEXAID and REVANT work to redistribute these items to those in need. Another option is to utilize textile collection containers available in your local community for disposing of textile waste.",
+    "imageURL": "clothes_bin.webp",
+    "examples": [
+      {
+        "name": "Bed Linen",
+        "imageURL": "bed_linen.webp"
+      },
+      {
+        "name": "Belt",
+        "imageURL": "belt.webp"
+      },
+      {
+        "name": "Socks",
+        "imageURL": "socks.webp"
+      },
+      {
+        "name": "Stuffed Toy",
+        "imageURL": "stuffed_toys.webp"
+      },
+      {
+        "name": "T-Shirt",
+        "imageURL": "tshirts.webp"
+      }
+    ]
+  }
+]

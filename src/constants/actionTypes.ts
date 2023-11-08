@@ -1,0 +1,5 @@
+export const GET_QUESTIONS = "GET_QUESTIONS";
+export const ANSWER_QUESTION = "ANSWER_QUESTION";
+export const GET_CATEGORIES = "GET_CATEGORIES";
+export const SAVE_SCORES = "SAVE_SCORES";
+export const RESET = "RESET";
